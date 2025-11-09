@@ -27,7 +27,7 @@ const person = {
 
 <br>
 <div align="center">
-  <img src="assets/faisal.webp" width="550" />
+  <video src="assets/faisal.mp4" width="550" autoplay loop muted></video>
 </div>
 <br>
 
