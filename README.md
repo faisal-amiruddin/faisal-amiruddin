@@ -27,7 +27,7 @@ const person = {
 
 <br>
 <div align="center">
-  <img src="assets/faisal.gif" width="450" />
+  <img src="assets/faisal.webp" width="550" />
 </div>
 <br>
 
