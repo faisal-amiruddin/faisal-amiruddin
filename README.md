@@ -133,6 +133,8 @@ const person = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Logic%20is%20my%20middle%20name.)
 
+---
+
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faisal-amiruddin&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
