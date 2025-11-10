@@ -120,7 +120,6 @@ const person = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-amiruddin-4965292ba/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faisalamiruddin_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yokaimi.)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalamrdn@gmail.com)
 
 </div>
@@ -134,13 +133,5 @@ const person = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Logic%20is%20my%20middle%20name.)
 
 ---
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=faisal-amiruddin&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
-**Happy Coding! 🚀**
 
 </div>
