@@ -132,6 +132,4 @@ const person = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Logic%20is%20my%20middle%20name.)
 
----
-
 </div>
